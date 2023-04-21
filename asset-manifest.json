@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://m2mtechconnect.com/static/css/main.fa82cdc3.css",
-    "main.js": "https://m2mtechconnect.com/static/js/main.dd3d8a15.js",
+    "main.css": "https://m2mtechconnect.com/static/css/main.a723ca6d.css",
+    "main.js": "https://m2mtechconnect.com/static/js/main.4434a74d.js",
     "static/media/form_background_blue.png": "https://m2mtechconnect.com/static/media/form_background_blue.07ef8ac62ae642b2d1d8.png",
     "static/media/remixicon.svg": "https://m2mtechconnect.com/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/M2M-Landing-5.png": "https://m2mtechconnect.com/static/media/M2M-Landing-5.747a55e677c094c7c154.png",
@@ -42,6 +42,7 @@
     "static/media/home-four-video.jpg": "https://m2mtechconnect.com/static/media/home-four-video.b8f87bc0d35bb5d41a19.jpg",
     "static/media/home-five-hiw.jpg": "https://m2mtechconnect.com/static/media/home-five-hiw.f6df7ed1d9f48208e221.jpg",
     "static/media/home-three-newsletter.jpg": "https://m2mtechconnect.com/static/media/home-three-newsletter.3d4f4cf541c1d07a0118.jpg",
+    "static/media/M2M-Landing-5.webp": "https://m2mtechconnect.com/static/media/M2M-Landing-5.c0e072101b95dad9cd4f.webp",
     "static/media/bg-image-28.jpg": "https://m2mtechconnect.com/static/media/bg-image-28.4d6c8790c4dcca34c6e4.jpg",
     "static/media/video-home-3-bg.png": "https://m2mtechconnect.com/static/media/video-home-3-bg.3b05b26f569bb72953bf.png",
     "static/media/home-two-cta.jpg": "https://m2mtechconnect.com/static/media/home-two-cta.73d10bc1e4f1217dd528.jpg",
@@ -54,11 +55,11 @@
     "static/media/slick.ttf": "https://m2mtechconnect.com/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "https://m2mtechconnect.com/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://m2mtechconnect.com/index.html",
-    "main.fa82cdc3.css.map": "https://m2mtechconnect.com/static/css/main.fa82cdc3.css.map",
-    "main.dd3d8a15.js.map": "https://m2mtechconnect.com/static/js/main.dd3d8a15.js.map"
+    "main.a723ca6d.css.map": "https://m2mtechconnect.com/static/css/main.a723ca6d.css.map",
+    "main.4434a74d.js.map": "https://m2mtechconnect.com/static/js/main.4434a74d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa82cdc3.css",
-    "static/js/main.dd3d8a15.js"
+    "static/css/main.a723ca6d.css",
+    "static/js/main.4434a74d.js"
   ]
 }
