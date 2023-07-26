@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://m2mtechconnect.com/static/css/main.994d8597.css",
-    "main.js": "https://m2mtechconnect.com/static/js/main.b7d87dba.js",
+    "main.css": "https://m2mtechconnect.com/static/css/main.08ae6547.css",
+    "main.js": "https://m2mtechconnect.com/static/js/main.6751d015.js",
     "static/media/remixicon.svg": "https://m2mtechconnect.com/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/M2M-Landing-5.png": "https://m2mtechconnect.com/static/media/M2M-Landing-5.747a55e677c094c7c154.png",
     "static/media/landing-page-innerpages.png": "https://m2mtechconnect.com/static/media/landing-page-innerpages.aa745159510c29397f45.png",
@@ -14,11 +14,13 @@
     "static/media/form_background_brown.webp": "https://m2mtechconnect.com/static/media/form_background_brown.f34ba61211b696795eed.webp",
     "static/media/home-two-events.jpg": "https://m2mtechconnect.com/static/media/home-two-events.193a69c763a60513758c.jpg",
     "static/media/coming-soon.jpg": "https://m2mtechconnect.com/static/media/coming-soon.6ace2ea70e54cb63f94c.jpg",
+    "static/media/design.webp": "https://m2mtechconnect.com/static/media/design.d975f969d34fd366db04.webp",
     "static/media/about-us-one-team.jpg": "https://m2mtechconnect.com/static/media/about-us-one-team.91180b4031083013797b.jpg",
     "static/media/about-us-two-service.jpg": "https://m2mtechconnect.com/static/media/about-us-two-service.720f8a15bccdefd3979e.jpg",
     "static/media/landing-page-innerpages-bg.jpg": "https://m2mtechconnect.com/static/media/landing-page-innerpages-bg.ba2fa9ec435629b62183.jpg",
     "static/media/home-five-blog.jpg": "https://m2mtechconnect.com/static/media/home-five-blog.278445b58791d8b11fed.jpg",
     "static/media/404.jpg": "https://m2mtechconnect.com/static/media/404.d151073061c8b21e70a8.jpg",
+    "static/media/data-analytics.webp": "https://m2mtechconnect.com/static/media/data-analytics.08ca0de4b59967a2975f.webp",
     "static/media/pricing-plan.jpg": "https://m2mtechconnect.com/static/media/pricing-plan.15b865b3985e94581a0e.jpg",
     "static/media/home-two-banner.jpg": "https://m2mtechconnect.com/static/media/home-two-banner.3cbe34e0c5ec1b2d7755.jpg",
     "static/media/home-four-courses.jpg": "https://m2mtechconnect.com/static/media/home-four-courses.670578f27e767af7ee81.jpg",
@@ -34,15 +36,23 @@
     "static/media/about-us-two-countdown.jpg": "https://m2mtechconnect.com/static/media/about-us-two-countdown.1526f72ede8e203e1cc2.jpg",
     "static/media/home-two-about-us.jpg": "https://m2mtechconnect.com/static/media/home-two-about-us.82ace45fca288e763b41.jpg",
     "static/media/home-two-testimonial.jpg": "https://m2mtechconnect.com/static/media/home-two-testimonial.ddaa52d925ed2382d369.jpg",
+    "static/media/machine-learning.webp": "https://m2mtechconnect.com/static/media/machine-learning.fa1a3d0d5d1aa778e78d.webp",
     "static/media/home-four-blog.jpg": "https://m2mtechconnect.com/static/media/home-four-blog.cac73eee840a7425a2b9.jpg",
+    "static/media/deep-learning.webp": "https://m2mtechconnect.com/static/media/deep-learning.3e3448ec7e55af21821f.webp",
+    "static/media/Deep-Learning-Curriculum.pdf": "https://m2mtechconnect.com/static/media/Deep-Learning-Curriculum.2b927d16611012a771e9.pdf",
     "static/media/landing-page-courses.jpg": "https://m2mtechconnect.com/static/media/landing-page-courses.b38067b2d33f871d4083.jpg",
     "static/media/home-four-banner.jpg": "https://m2mtechconnect.com/static/media/home-four-banner.5c04f5273cd093e7e82f.jpg",
     "static/media/landing-page-banner.jpg": "https://m2mtechconnect.com/static/media/landing-page-banner.0fa3637a343b252762dc.jpg",
+    "static/media/Design-Curriculum.pdf": "https://m2mtechconnect.com/static/media/Design-Curriculum.414ed519d494dfe41182.pdf",
+    "static/media/Machine-Learning-Curriculum.pdf": "https://m2mtechconnect.com/static/media/Machine-Learning-Curriculum.4c382be904a9b4b13fb4.pdf",
     "static/media/home-four-instructor.jpg": "https://m2mtechconnect.com/static/media/home-four-instructor.d8cdef2380e8c478f414.jpg",
+    "static/media/Data-Analytics-Curriculum.pdf": "https://m2mtechconnect.com/static/media/Data-Analytics-Curriculum.9c56019c237e0ba549bd.pdf",
+    "static/media/Coding-Curriculum.pdf": "https://m2mtechconnect.com/static/media/Coding-Curriculum.489f13e07bd1a2a182e4.pdf",
     "static/media/home-one-instructor.jpg": "https://m2mtechconnect.com/static/media/home-one-instructor.d6b889d2ee591630b787.jpg",
     "static/media/home-three-testimonial.jpg": "https://m2mtechconnect.com/static/media/home-three-testimonial.bd8885e2ae9932936b63.jpg",
     "static/media/home-four-video.jpg": "https://m2mtechconnect.com/static/media/home-four-video.b8f87bc0d35bb5d41a19.jpg",
     "static/media/home-five-hiw.jpg": "https://m2mtechconnect.com/static/media/home-five-hiw.f6df7ed1d9f48208e221.jpg",
+    "static/media/coding.webp": "https://m2mtechconnect.com/static/media/coding.768c2a8753dc668869dd.webp",
     "static/media/home-three-newsletter.jpg": "https://m2mtechconnect.com/static/media/home-three-newsletter.3d4f4cf541c1d07a0118.jpg",
     "static/media/M2M-Landing-5.webp": "https://m2mtechconnect.com/static/media/M2M-Landing-5.c0e072101b95dad9cd4f.webp",
     "static/media/bg-image-28.jpg": "https://m2mtechconnect.com/static/media/bg-image-28.4d6c8790c4dcca34c6e4.jpg",
@@ -57,11 +67,11 @@
     "static/media/slick.ttf": "https://m2mtechconnect.com/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "https://m2mtechconnect.com/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://m2mtechconnect.com/index.html",
-    "main.994d8597.css.map": "https://m2mtechconnect.com/static/css/main.994d8597.css.map",
-    "main.b7d87dba.js.map": "https://m2mtechconnect.com/static/js/main.b7d87dba.js.map"
+    "main.08ae6547.css.map": "https://m2mtechconnect.com/static/css/main.08ae6547.css.map",
+    "main.6751d015.js.map": "https://m2mtechconnect.com/static/js/main.6751d015.js.map"
   },
   "entrypoints": [
-    "static/css/main.994d8597.css",
-    "static/js/main.b7d87dba.js"
+    "static/css/main.08ae6547.css",
+    "static/js/main.6751d015.js"
   ]
 }
