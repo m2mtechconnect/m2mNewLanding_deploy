@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://m2mtechconnect.com/static/css/main.31030400.css",
-    "main.js": "https://m2mtechconnect.com/static/js/main.77079d8c.js",
+    "main.js": "https://m2mtechconnect.com/static/js/main.080b319e.js",
     "static/media/remixicon.svg": "https://m2mtechconnect.com/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/M2M-Landing-5.png": "https://m2mtechconnect.com/static/media/M2M-Landing-5.747a55e677c094c7c154.png",
     "static/media/landing-page-innerpages.png": "https://m2mtechconnect.com/static/media/landing-page-innerpages.aa745159510c29397f45.png",
@@ -68,10 +68,10 @@
     "static/media/slick.woff": "https://m2mtechconnect.com/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://m2mtechconnect.com/index.html",
     "main.31030400.css.map": "https://m2mtechconnect.com/static/css/main.31030400.css.map",
-    "main.77079d8c.js.map": "https://m2mtechconnect.com/static/js/main.77079d8c.js.map"
+    "main.080b319e.js.map": "https://m2mtechconnect.com/static/js/main.080b319e.js.map"
   },
   "entrypoints": [
     "static/css/main.31030400.css",
-    "static/js/main.77079d8c.js"
+    "static/js/main.080b319e.js"
   ]
 }
