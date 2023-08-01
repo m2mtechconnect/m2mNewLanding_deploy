@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://m2mtechconnect.com/static/css/main.655f6035.css",
-    "main.js": "https://m2mtechconnect.com/static/js/main.14a6b801.js",
+    "main.css": "https://m2mtechconnect.com/static/css/main.b6a6cc82.css",
+    "main.js": "https://m2mtechconnect.com/static/js/main.d7d23d4b.js",
     "static/media/remixicon.svg": "https://m2mtechconnect.com/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/M2M-Landing-5.png": "https://m2mtechconnect.com/static/media/M2M-Landing-5.747a55e677c094c7c154.png",
     "static/media/landing-page-innerpages.png": "https://m2mtechconnect.com/static/media/landing-page-innerpages.aa745159510c29397f45.png",
@@ -35,7 +35,6 @@
     "static/media/about-us-two-countdown.jpg": "https://m2mtechconnect.com/static/media/about-us-two-countdown.1526f72ede8e203e1cc2.jpg",
     "static/media/home-two-about-us.jpg": "https://m2mtechconnect.com/static/media/home-two-about-us.82ace45fca288e763b41.jpg",
     "static/media/home-two-testimonial.jpg": "https://m2mtechconnect.com/static/media/home-two-testimonial.ddaa52d925ed2382d369.jpg",
-    "static/media/machine-learning.webp": "https://m2mtechconnect.com/static/media/machine-learning.fa1a3d0d5d1aa778e78d.webp",
     "static/media/home-four-blog.jpg": "https://m2mtechconnect.com/static/media/home-four-blog.cac73eee840a7425a2b9.jpg",
     "static/media/Deep-Learning-Curriculum.pdf": "https://m2mtechconnect.com/static/media/Deep-Learning-Curriculum.2b927d16611012a771e9.pdf",
     "static/media/landing-page-courses.jpg": "https://m2mtechconnect.com/static/media/landing-page-courses.b38067b2d33f871d4083.jpg",
@@ -54,6 +53,7 @@
     "static/media/home-three-newsletter.jpg": "https://m2mtechconnect.com/static/media/home-three-newsletter.3d4f4cf541c1d07a0118.jpg",
     "static/media/deep-learning-banner_v1.webp": "https://m2mtechconnect.com/static/media/deep-learning-banner_v1.3fe70be9c7da46046512.webp",
     "static/media/M2M-Landing-5.webp": "https://m2mtechconnect.com/static/media/M2M-Landing-5.c0e072101b95dad9cd4f.webp",
+    "static/media/machine-learning.webp": "https://m2mtechconnect.com/static/media/machine-learning.7df62b69f49bed4ec76e.webp",
     "static/media/bg-image-28.jpg": "https://m2mtechconnect.com/static/media/bg-image-28.4d6c8790c4dcca34c6e4.jpg",
     "static/media/coding-banner_v1.webp": "https://m2mtechconnect.com/static/media/coding-banner_v1.94112579177a82ea2f3c.webp",
     "static/media/video-home-3-bg.png": "https://m2mtechconnect.com/static/media/video-home-3-bg.3b05b26f569bb72953bf.png",
@@ -67,11 +67,11 @@
     "static/media/slick.ttf": "https://m2mtechconnect.com/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "https://m2mtechconnect.com/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://m2mtechconnect.com/index.html",
-    "main.655f6035.css.map": "https://m2mtechconnect.com/static/css/main.655f6035.css.map",
-    "main.14a6b801.js.map": "https://m2mtechconnect.com/static/js/main.14a6b801.js.map"
+    "main.b6a6cc82.css.map": "https://m2mtechconnect.com/static/css/main.b6a6cc82.css.map",
+    "main.d7d23d4b.js.map": "https://m2mtechconnect.com/static/js/main.d7d23d4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.655f6035.css",
-    "static/js/main.14a6b801.js"
+    "static/css/main.b6a6cc82.css",
+    "static/js/main.d7d23d4b.js"
   ]
 }
