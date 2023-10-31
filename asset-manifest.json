@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://m2mtechconnect.com/static/css/main.1bf8f329.css",
-    "main.js": "https://m2mtechconnect.com/static/js/main.df6eae0a.js",
+    "main.js": "https://m2mtechconnect.com/static/js/main.f5a9087d.js",
     "static/media/STEM_STUDENT_SPOTLIGHT_PROGRAM_PACKAGE.pdf": "https://m2mtechconnect.com/static/media/STEM_STUDENT_SPOTLIGHT_PROGRAM_PACKAGE.ab51648c964d50616e39.pdf",
     "static/media/wilplus-banner_v2.png": "https://m2mtechconnect.com/static/media/wilplus-banner_v2.ffdfd0c703d27ed893c6.png",
     "static/media/remixicon.svg": "https://m2mtechconnect.com/static/media/remixicon.9cedd2150922ead84869.svg",
@@ -70,10 +70,10 @@
     "static/media/slick.woff": "https://m2mtechconnect.com/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://m2mtechconnect.com/index.html",
     "main.1bf8f329.css.map": "https://m2mtechconnect.com/static/css/main.1bf8f329.css.map",
-    "main.df6eae0a.js.map": "https://m2mtechconnect.com/static/js/main.df6eae0a.js.map"
+    "main.f5a9087d.js.map": "https://m2mtechconnect.com/static/js/main.f5a9087d.js.map"
   },
   "entrypoints": [
     "static/css/main.1bf8f329.css",
-    "static/js/main.df6eae0a.js"
+    "static/js/main.f5a9087d.js"
   ]
 }
