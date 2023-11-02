@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://m2mtechconnect.com/static/css/main.1bf8f329.css",
-    "main.js": "https://m2mtechconnect.com/static/js/main.6ad80c49.js",
+    "main.css": "https://m2mtechconnect.com/static/css/main.4b4dcb97.css",
+    "main.js": "https://m2mtechconnect.com/static/js/main.6b02f1fa.js",
     "static/media/STEM_STUDENT_SPOTLIGHT_PROGRAM_PACKAGE.pdf": "https://m2mtechconnect.com/static/media/STEM_STUDENT_SPOTLIGHT_PROGRAM_PACKAGE.ab51648c964d50616e39.pdf",
     "static/media/wilplus-banner_v2.png": "https://m2mtechconnect.com/static/media/wilplus-banner_v2.ffdfd0c703d27ed893c6.png",
     "static/media/remixicon.svg": "https://m2mtechconnect.com/static/media/remixicon.9cedd2150922ead84869.svg",
@@ -14,6 +14,7 @@
     "static/media/icomoon.svg?3qm5q8": "https://m2mtechconnect.com/static/media/icomoon.097adc1a24cbe1ed711a.svg",
     "static/media/remixicon.woff2": "https://m2mtechconnect.com/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
     "static/media/form_background_brown.webp": "https://m2mtechconnect.com/static/media/form_background_brown.f34ba61211b696795eed.webp",
+    "static/media/Data-Science-ML-AI-Curriculum.pdf": "https://m2mtechconnect.com/static/media/Data-Science-ML-AI-Curriculum.1266da738354320b85f9.pdf",
     "static/media/home-two-events.jpg": "https://m2mtechconnect.com/static/media/home-two-events.193a69c763a60513758c.jpg",
     "static/media/coming-soon.jpg": "https://m2mtechconnect.com/static/media/coming-soon.6ace2ea70e54cb63f94c.jpg",
     "static/media/about-us-one-team.jpg": "https://m2mtechconnect.com/static/media/about-us-one-team.91180b4031083013797b.jpg",
@@ -69,11 +70,11 @@
     "static/media/slick.ttf": "https://m2mtechconnect.com/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "https://m2mtechconnect.com/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://m2mtechconnect.com/index.html",
-    "main.1bf8f329.css.map": "https://m2mtechconnect.com/static/css/main.1bf8f329.css.map",
-    "main.6ad80c49.js.map": "https://m2mtechconnect.com/static/js/main.6ad80c49.js.map"
+    "main.4b4dcb97.css.map": "https://m2mtechconnect.com/static/css/main.4b4dcb97.css.map",
+    "main.6b02f1fa.js.map": "https://m2mtechconnect.com/static/js/main.6b02f1fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bf8f329.css",
-    "static/js/main.6ad80c49.js"
+    "static/css/main.4b4dcb97.css",
+    "static/js/main.6b02f1fa.js"
   ]
 }
