@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://m2mtechconnect.com/static/css/main.15685cc6.css",
-    "main.js": "https://m2mtechconnect.com/static/js/main.86470a1f.js",
+    "main.css": "https://m2mtechconnect.com/static/css/main.30ebaa69.css",
+    "main.js": "https://m2mtechconnect.com/static/js/main.2e680337.js",
     "static/media/STEM_STUDENT_SPOTLIGHT_PROGRAM_PACKAGE.pdf": "https://m2mtechconnect.com/static/media/STEM_STUDENT_SPOTLIGHT_PROGRAM_PACKAGE.ab51648c964d50616e39.pdf",
     "static/media/wilplus-banner_v2.png": "https://m2mtechconnect.com/static/media/wilplus-banner_v2.ffdfd0c703d27ed893c6.png",
     "static/media/remixicon.svg": "https://m2mtechconnect.com/static/media/remixicon.9cedd2150922ead84869.svg",
@@ -19,7 +19,6 @@
     "static/media/coming-soon.jpg": "https://m2mtechconnect.com/static/media/coming-soon.6ace2ea70e54cb63f94c.jpg",
     "static/media/about-us-one-team.jpg": "https://m2mtechconnect.com/static/media/about-us-one-team.91180b4031083013797b.jpg",
     "static/media/about-us-two-service.jpg": "https://m2mtechconnect.com/static/media/about-us-two-service.720f8a15bccdefd3979e.jpg",
-    "static/media/landing-page-innerpages-bg.jpg": "https://m2mtechconnect.com/static/media/landing-page-innerpages-bg.ba2fa9ec435629b62183.jpg",
     "static/media/home-five-blog.jpg": "https://m2mtechconnect.com/static/media/home-five-blog.278445b58791d8b11fed.jpg",
     "static/media/404.jpg": "https://m2mtechconnect.com/static/media/404.d151073061c8b21e70a8.jpg",
     "static/media/data-analytics.webp": "https://m2mtechconnect.com/static/media/data-analytics.08ca0de4b59967a2975f.webp",
@@ -60,6 +59,7 @@
     "static/media/bg-image-28.jpg": "https://m2mtechconnect.com/static/media/bg-image-28.4d6c8790c4dcca34c6e4.jpg",
     "static/media/coding-banner_v1.webp": "https://m2mtechconnect.com/static/media/coding-banner_v1.94112579177a82ea2f3c.webp",
     "static/media/video-home-3-bg.png": "https://m2mtechconnect.com/static/media/video-home-3-bg.3b05b26f569bb72953bf.png",
+    "static/media/student-spotlight-banner.webp": "https://m2mtechconnect.com/static/media/student-spotlight-banner.b0bdce2610864e47db59.webp",
     "static/media/home-two-cta.jpg": "https://m2mtechconnect.com/static/media/home-two-cta.73d10bc1e4f1217dd528.jpg",
     "static/media/icomoon.eot?3qm5q8": "https://m2mtechconnect.com/static/media/icomoon.7adc3e986d599da84864.eot",
     "static/media/icomoon.woff?3qm5q8": "https://m2mtechconnect.com/static/media/icomoon.f0963f3585eab9755299.woff",
@@ -70,11 +70,11 @@
     "static/media/slick.ttf": "https://m2mtechconnect.com/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "https://m2mtechconnect.com/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://m2mtechconnect.com/index.html",
-    "main.15685cc6.css.map": "https://m2mtechconnect.com/static/css/main.15685cc6.css.map",
-    "main.86470a1f.js.map": "https://m2mtechconnect.com/static/js/main.86470a1f.js.map"
+    "main.30ebaa69.css.map": "https://m2mtechconnect.com/static/css/main.30ebaa69.css.map",
+    "main.2e680337.js.map": "https://m2mtechconnect.com/static/js/main.2e680337.js.map"
   },
   "entrypoints": [
-    "static/css/main.15685cc6.css",
-    "static/js/main.86470a1f.js"
+    "static/css/main.30ebaa69.css",
+    "static/js/main.2e680337.js"
   ]
 }
