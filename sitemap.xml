@@ -6,162 +6,132 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://m2mtechconnect.com/</loc>
-  <lastmod>2022-10-20T22:48:38+00:00</lastmod>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://m2mtechconnect.com/contact-us/</loc>
-  <lastmod>2023-10-31T22:48:38+00:00</lastmod>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/solutions/applied-ai-solutions/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/solutions/industry-aligned-upskilling/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/programs/datatalent/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/programs/skillsboost/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/programs/aiminds/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/programs/work-integrated-learning/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://m2mtechconnect.com/courses/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/research/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/artificial-intelligence-and-machine-learning-application/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/predictive-maintenance-solution/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/clean-energy-consumption-forecasting-project/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/clean-energy-management-in-smart-grids/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/customer-segmentation/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/medical-diagnosis-project/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/housing-market-price-prediction/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/crop-yield-prediction-project/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/supply-chain-optimization/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/business-intelligence-data-visualization-project/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/healthcare-monitoring-and-management-project/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/work-integrated-learning/intrusion-detection-project/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/research/clean-technology/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/research/advanced-manufacturing/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/research/iot-5g-and-cybersecurity/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/research/business-intelligence/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/research/fintech/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/research/healthtech/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/research/agtech/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://m2mtechconnect.com/courses/data-analytics/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/courses/coding/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://m2mtechconnect.com/courses/design/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://m2mtechconnect.com/courses/machine-learning/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://m2mtechconnect.com/courses/deep-learning/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://m2mtechconnect.com/privacy-policy/</loc>
-  <lastmod>2023-10-03T22:48:38+00:00</lastmod>
+  <loc>https://m2mtechconnect.com/courses/coding/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/courses/design/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/careers/jobs/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/research/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/research/clean-technology/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/research/advanced-manufacturing/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/research/iot-5g-and-cybersecurity/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/research/business-intelligence/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/research/fintech/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/research/healthtech/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/research/agtech/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://m2mtechconnect.com/events/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://m2mtechconnect.com/spotlight/</loc>
-  <lastmod>2023-10-04T22:48:38+00:00</lastmod>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://m2mtechconnect.com/datatalent/</loc>
-  <lastmod>2023-10-31T22:48:38+00:00</lastmod>
+  <loc>https://m2mtechconnect.com/privacy-policy/</loc>
+  <lastmod>2024-03-03T22:48:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 </urlset>
