@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://m2mtechconnect.com/static/css/main.4ab131ba.css",
-    "main.js": "https://m2mtechconnect.com/static/js/main.edc5e6cc.js",
+    "main.js": "https://m2mtechconnect.com/static/js/main.6cd70bf4.js",
     "static/media/STEM_STUDENT_SPOTLIGHT_PROGRAM_PACKAGE.pdf": "https://m2mtechconnect.com/static/media/STEM_STUDENT_SPOTLIGHT_PROGRAM_PACKAGE.ab51648c964d50616e39.pdf",
     "static/media/remixicon.svg": "https://m2mtechconnect.com/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/M2M-Landing-5.png": "https://m2mtechconnect.com/static/media/M2M-Landing-5.747a55e677c094c7c154.png",
@@ -74,10 +74,10 @@
     "static/media/slick.woff": "https://m2mtechconnect.com/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://m2mtechconnect.com/index.html",
     "main.4ab131ba.css.map": "https://m2mtechconnect.com/static/css/main.4ab131ba.css.map",
-    "main.edc5e6cc.js.map": "https://m2mtechconnect.com/static/js/main.edc5e6cc.js.map"
+    "main.6cd70bf4.js.map": "https://m2mtechconnect.com/static/js/main.6cd70bf4.js.map"
   },
   "entrypoints": [
     "static/css/main.4ab131ba.css",
-    "static/js/main.edc5e6cc.js"
+    "static/js/main.6cd70bf4.js"
   ]
 }
